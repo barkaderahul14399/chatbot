@@ -7,9 +7,9 @@
  problems that the user has experienced while using a chatbot. Chatbot can be described as an answering system where a system will be able to answer questions
  or statements submitted by users.
  
-----------------------------
 
-                              Here is simply Flow for running this chatbot project ----------------------------------------------------------
+
+                              Here is simply Flow for running this chatbot project 
 
 1.cretate a GUI (for these I Used HTML and css)
 2.import required python packages (reffer requirement.txt)
